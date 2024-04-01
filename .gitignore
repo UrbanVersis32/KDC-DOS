@@ -1,0 +1,4 @@
+# All files to ignore when uploading
+
+*.pyc
+source/__pycache__
