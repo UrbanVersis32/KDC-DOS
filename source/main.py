@@ -8,11 +8,11 @@
 
 
 # Commands without argument
-def basiccommands():
+def nonarguments():
 	print()
 
 # Commands with argument
-def argumentcommands():
+def arguments():
 	print()
 
 print("Welcome to KDC-DOS!")
